@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beaaxc
+- 👋 Hi, I’m @beaaxc (Beatriz/Beatrice)
 - 👀 I’m interested in Data Analysis (but my current bachelor is in Environmental Management)
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on team projects 
